@@ -10,8 +10,8 @@ _________                           __     __      __.__
 /_______  (____  / ____|\____/|____/ |__|     \__/\  / |___|  /\____/ 
        \/     \/\/                                \/       \/        
 
-[+] Author: Chael Aracosts
-[-] Github: https://github.com/csnntrt
+[+] Author: Chael Aracosta
+[-] Github: https://github.com/johnmichaelarc
 
 EOL;
 PHP_EOL;

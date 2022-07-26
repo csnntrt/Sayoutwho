@@ -1,5 +1,5 @@
 # Sayout who #
-## _A Php bot that send bulk message_ ##
+## _A Php bot that send mass message for sayout.me_ ##
 ![Sayoutwho](./images/sayout.jpg)
 
 ## How to run
